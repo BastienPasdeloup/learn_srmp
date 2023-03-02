@@ -6,6 +6,7 @@
     Performs a grid search of (a subset of) the hyperparameters of "learn_SRMP".
     Run with no argument, and it will spawn processes for all pairs crossover/mutation.
     Run with arguments crossover and mutation, and it will run for that specific pair.
+    This code was used to generate data analyzed in Section 4 of the article.
 """
 
 #####################################################################################################################################################
